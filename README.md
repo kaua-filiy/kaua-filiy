@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Olá! Eu Sou Kauã 
 
-<!--
-**kaua-filiy/kaua-filiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Gosto de computadores, matemática, assistir desenhos, filmes, séries e jogar bola!
 
-Here are some ideas to get you started:
+💡 Sou fascinado por aprender coisas novas, principalmente se estiverem ligadas à T.I.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Atualmente estou trabalhando em:
+- Projetos que ajudam pessoas e que consolidam meu conhecimento em programação.
+
+### 🌱 Atualmente estou aprendendo:
+- Front-end: **HTML**, **CSS**, **JavaScript** e **Angular**
+- Back-end: **C#**, **ASP.NET (.NET 8)** e **Entity Framework**
+
+### 👯 Procuro colaborar em:
+- Projetos sociais ou educacionais, ou qualquer projeto que tenha um propósito legal e onde eu possa aprender junto.
+
+### 🤔 Procuro ajuda com:
+- Sugestões de melhorias para meus projetos.
+- Boas práticas no desenvolvimento web e arquitetura de software em .NET
+
+### 🤝 Posso ajudar com:
+- Lógica de programação e estruturas básicas (funções, procedimentos, condicionais, loops)
+- Desenvolvimento Front-end com HTML, CSS e JavaScript
+- Programação em C# e .NET
+- Como começar a aprender programação
+
+### 📫 Como me encontrar:
+- Me Mande alguma mensagem no LinkedIn.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-filiy&langs_count=8)
